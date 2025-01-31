@@ -171,7 +171,7 @@ sudo aws iam create-user --user-name s3user --profile AWSCloudAdmin
 ```
 ![Image](https://github.com/user-attachments/assets/3e9dd094-89c8-4df9-9a2f-49e9d680e878)
 
-<p align="center"><i><b>Creat S3 User with CLI</b></i></p>
+<p align="center"><i><b>Create S3 User with CLI</b></i></p>
 
 2. Attach the AmazonS3FullAccess policy to the new "s3user". This policy allows for full control over Amazon S3 buckets, including creating them and destroying them.
 
