@@ -10,8 +10,7 @@
 
 ## Lab Setup
 
-To perform this first lab all you need is an AWS account and the CloudBreach VM.
-
+To perform this first lab all you need is an AWS account
 ## Lab - Step by Step Instructions
 
 ### 1: Log in to the AWS Management Console as your root user
